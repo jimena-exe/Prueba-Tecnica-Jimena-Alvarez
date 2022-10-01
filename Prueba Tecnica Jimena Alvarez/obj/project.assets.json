@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Documents\\Prueba Tecnica Jimena Alvarez\\Prueba Tecnica Jimena Alvarez.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Documents\\Prueba-Tecnica-Jimena-Alvarez\\Prueba Tecnica Jimena Alvarez\\Prueba Tecnica Jimena Alvarez.csproj",
       "projectName": "Prueba Tecnica Jimena Alvarez",
-      "projectPath": "C:\\Users\\usuario\\Documents\\Prueba Tecnica Jimena Alvarez\\Prueba Tecnica Jimena Alvarez.csproj",
+      "projectPath": "C:\\Users\\usuario\\Documents\\Prueba-Tecnica-Jimena-Alvarez\\Prueba Tecnica Jimena Alvarez\\Prueba Tecnica Jimena Alvarez.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Documents\\Prueba Tecnica Jimena Alvarez\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Documents\\Prueba-Tecnica-Jimena-Alvarez\\Prueba Tecnica Jimena Alvarez\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
