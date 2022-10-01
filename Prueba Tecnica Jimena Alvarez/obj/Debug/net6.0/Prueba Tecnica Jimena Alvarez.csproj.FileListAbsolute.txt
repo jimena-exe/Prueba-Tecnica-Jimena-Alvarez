@@ -1,0 +1,15 @@
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\bin\Debug\net6.0\Prueba Tecnica Jimena Alvarez.exe
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\bin\Debug\net6.0\Prueba Tecnica Jimena Alvarez.deps.json
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\bin\Debug\net6.0\Prueba Tecnica Jimena Alvarez.runtimeconfig.json
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\bin\Debug\net6.0\Prueba Tecnica Jimena Alvarez.dll
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\bin\Debug\net6.0\Prueba Tecnica Jimena Alvarez.pdb
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.csproj.AssemblyReference.cache
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.AssemblyInfoInputs.cache
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.AssemblyInfo.cs
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.dll
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\refint\Prueba Tecnica Jimena Alvarez.dll
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.pdb
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\Prueba Tecnica Jimena Alvarez.genruntimeconfig.cache
+C:\Users\usuario\Documents\Prueba Tecnica Jimena Alvarez\obj\Debug\net6.0\ref\Prueba Tecnica Jimena Alvarez.dll
