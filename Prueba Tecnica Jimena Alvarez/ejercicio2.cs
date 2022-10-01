@@ -6,10 +6,6 @@ using System.Threading.Tasks;
 
 namespace ejercicios
 {
-    internal class ejercicio2
-    {
-    }
-
     public class ejercicioDos
     {
         public ejercicioDos(int numero)
